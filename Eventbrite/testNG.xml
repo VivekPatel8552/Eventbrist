@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SFDC CPQ API Suite" parallel="classes" thread-count="1">
+	
+	<parameter name="environment" value="config.properties" />
+	<parameter name="browser" value="Chrome" />
+	  	
+	<test name="EventBrite_Event_Test">
+		<classes>
+			<class name="com.test.epam.Eventbrite.Events.EventAPITestClass"/>
+				
+		</classes>
+	</test>
+	
+</suite>

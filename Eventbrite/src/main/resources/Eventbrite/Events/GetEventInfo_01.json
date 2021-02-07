@@ -1,0 +1,18 @@
+{
+   "Data":{
+      "organizationId":"512776176865"
+   },
+   "verifyEventData":{
+      "eventName":"Rest API Testing Tutorial",
+      "timeZone":"asia/kolkata",
+      "startDateTime":"2021-06-01T05:00:00Z",
+      "endDateTime":"2021-06-01T09:00:00Z",
+      "capacity":"2000",
+      "currency":"USD",
+      "hide_start_date":"false",
+      "hide_end_date":"false",
+      "listed":"true",
+      "online_event":"true",
+      "status":"draft"
+   }
+}
